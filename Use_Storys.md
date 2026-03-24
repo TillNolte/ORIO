@@ -448,7 +448,7 @@ Akzeptanzkriterien:
         ○ Reports und Übersichten einsehen
     • Rolle ist einem Benutzer eindeutig zugeordnet
 
-(User Story 47: Übersicht für Teamleiter bereitstellen)
+User Story 47: Übersicht für Teamleiter bereitstellen
 Als Teamleiter
 möchte ich eine Gesamtübersicht über den Update-Fortschritt sehen,
 damit ich den Status aller Geräte und Operatoren kenne.

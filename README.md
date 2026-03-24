@@ -38,5 +38,4 @@ bd sync
 
 ## Aktueller Stand
 
-Die aus den User Stories abgeleiteten Implementierungsaufgaben wurden als `bd`-Tasks (`IT-01` bis `IT-30`) angelegt und Epics (`E1` bis `E13`) zugeordnet.
-
+Die User Stories aus `Use_Storys.md` sind als `bd`-Tasks (`US-01` bis `US-68`) unter den Epics (`E1` bis `E13`) angelegt. Die frueheren `IT-*`-Implementierungsaufgaben bleiben im Tracker nur noch als ersetzte Referenz erhalten.
