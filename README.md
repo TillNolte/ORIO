@@ -1,10 +1,10 @@
 # ORIO
 
-ORIO ist ein Projekt zur strukturierten Planung, Durchfuehrung und Dokumentation von Windows-Update-Rollouts in einer Geraetelandschaft.
+ORIO ist ein Projekt zur strukturierten Planung, Durchführung und Dokumentation von Windows-Update-Rollouts in einer Gerätelandschaft.
 
 ## Ziel
 
-Das Projekt schafft Transparenz ueber den Update-Status aller Geraete, reduziert manuelle Fehler und unterstuetzt Teams bei einer nachvollziehbaren, priorisierten Abarbeitung.
+Das Projekt schafft Transparenz über den Update-Status aller Geräte, reduziert manuelle Fehler und unterstützt Teams bei einer nachvollziehbaren, priorisierten Abarbeitung.
 
 ## Inhalte im Repository
 
@@ -12,12 +12,12 @@ Das Projekt schafft Transparenz ueber den Update-Status aller Geraete, reduziert
 - `Epics.md`: Fachliche Gruppierung der User Stories in Epics
 - `Use_Cases/`: Detaillierte Use Cases
 - `User_Stories/`: Einzelbeschreibungen je User Story
-- `Entitaeten/` und `Entitaeten.md`: Fachliche Entitaeten
-- `.beads/`: Issue-Tracking-Daten fuer `bd` (beads)
+- `Entitäten/` und `Entitäten.md`: Fachliche Entitäten
+- `.beads/`: Issue-Tracking-Daten für `bd` (beads)
 
 ## Arbeitsweise (Issue Tracking mit bd)
 
-Dieses Projekt nutzt `bd` fuer Aufgabenverwaltung.
+Dieses Projekt nutzt `bd` für Aufgabenverwaltung.
 
 Wichtige Befehle:
 
@@ -33,9 +33,9 @@ bd sync
 
 1. Repository klonen
 2. Im Projektordner arbeiten
-3. `bd prime` ausfuehren, um aktuellen Workflow-Kontext zu sehen
-4. Mit `bd ready` die naechste umsetzbare Aufgabe auswaehlen
+3. `bd prime` ausführen, um aktuellen Workflow-Kontext zu sehen
+4. Mit `bd ready` die nächste umsetzbare Aufgabe auswählen
 
 ## Aktueller Stand
 
-Die User Stories aus `Use_Storys.md` sind als `bd`-Tasks (`US-01` bis `US-68`) unter den Epics (`E1` bis `E13`) angelegt. Die frueheren `IT-*`-Implementierungsaufgaben bleiben im Tracker nur noch als ersetzte Referenz erhalten.
+Die User Stories aus `Use_Storys.md` sind als `bd`-Tasks (`US-01` bis `US-68`) unter den Epics (`E1` bis `E13`) angelegt. Die früheren `IT-*`-Implementierungsaufgaben bleiben im Tracker nur noch als ersetzte Referenz erhalten.
