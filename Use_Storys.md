@@ -535,6 +535,7 @@ Akzeptanzkriterien:
     • Keine Pflicht zur Eingabe von Zielen oder Deadlines
     • Fortschritt basiert ausschließlich auf realen Statusdaten
     • Historische Entwicklung (z. B. „vor 2 Wochen im Vergleich zu heute“) ist einsehbar
+    • Vergleichswerte basieren auf gespeicherten Verlaufs-Snapshots der Ist-Daten
 
 User Story 56: Doppelte Geräte manuell korrekt zuordnen
 Als Operator

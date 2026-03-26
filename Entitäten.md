@@ -128,6 +128,13 @@ Attribute
             ▪ Offen
             ▪ Fehlerhaft
             ▪ Ausgeschlossen
+        ○ Fortschrittsverlauf (Snapshots)
+            ▪ Zeitpunkt
+            ▪ Gesamtgeräte
+            ▪ Aktualisiert
+            ▪ Offen
+            ▪ Fehlerhaft
+            ▪ Ausgeschlossen
     • Windows-Version
         ○ Name
         ○ Release-Bezeichnung
