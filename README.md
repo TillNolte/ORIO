@@ -34,7 +34,7 @@ Out of Scope:
 - `Entitäten/` und `Entitäten.md`: Fachliche Entitäten
 - `.beads/`: Issue-Tracking-Daten für `bd` (beads)
 
-Hinweis zur Benennung: Im Repository existieren sowohl `Entitäten.md` als auch der Ordner `Entitaeten/`. Diese Schreibweise ist aktuell historisch gewachsen.
+Hinweis zur Benennung: Im Repository existieren sowohl `Entitäten.md` als auch der Ordner `Entitäten/`. Diese Schreibweise ist aktuell historisch gewachsen.
 
 ## Lesereihenfolge (empfohlen)
 
