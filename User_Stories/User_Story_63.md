@@ -1,4 +1,5 @@
-User Story 63: Zielversion pro Gerät definieren
+# User Story 63: Zielversion pro Gerät definieren
+
 Als Operator
 möchte ich pro Gerät eine Ziel-Windows-Version festlegen können,
 damit unterschiedliche Update-Ziele parallel unterstützt werden.

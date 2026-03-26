@@ -1,4 +1,5 @@
-User Story 51: Dauer eines Updates erfassen
+# User Story 51: Dauer eines Updates erfassen
+
 Als Operator
 möchte ich die Dauer eines Updates erfassen können,
 damit der zeitliche Aufwand nachvollziehbar ist.

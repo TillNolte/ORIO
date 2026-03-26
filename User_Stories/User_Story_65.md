@@ -1,4 +1,5 @@
-User Story 65: Auswertung nach Update-Art ermöglichen
+# User Story 65: Auswertung nach Update-Art ermöglichen
+
 Als Teamleiter
 möchte ich Updates nach Update-Art auswerten können,
 damit ich Transparenz über durchgeführte Maßnahmen habe.

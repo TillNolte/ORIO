@@ -1,4 +1,5 @@
-User Story 23: Post-Update-Checkliste anzeigen
+# User Story 23: Post-Update-Checkliste anzeigen
+
 Als Operator
 möchte ich nach einem Update eine Checkliste angezeigt bekommen,
 damit ich sicherstelle, dass alle erforderlichen Nacharbeiten erledigt sind.

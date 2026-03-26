@@ -1,4 +1,4 @@
-Epic E6 – Ausschluss & Sonderfälle
+# Epic E6 – Ausschluss & Sonderfälle
 
 Ziel: Geräte bewusst vom Update-Prozess ausschließen
 

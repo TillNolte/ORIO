@@ -1,4 +1,5 @@
-User Story 68: Fortschritt pro Update-Kampagne anzeigen
+# User Story 68: Fortschritt pro Update-Kampagne anzeigen
+
 Als Teamleiter
 möchte ich den Fortschritt einer Update-Kampagne sehen,
 damit ich den Status mehrerer Kampagnen vergleichen kann.

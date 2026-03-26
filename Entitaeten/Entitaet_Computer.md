@@ -1,4 +1,5 @@
-    • Computer 
+# • Computer
+
         ○ Hostname
         ○ IP-Adresse
         ○ Betriebssystem

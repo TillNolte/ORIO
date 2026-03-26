@@ -1,4 +1,5 @@
-User Story 59: Schnellaktionen für häufige Statusänderungen
+# User Story 59: Schnellaktionen für häufige Statusänderungen
+
 Als Operator
 möchte ich häufig genutzte Status mit einem Klick ändern können,
 damit ich schneller arbeiten kann.

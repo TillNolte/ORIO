@@ -1,4 +1,5 @@
-User Story 44: Gerät während Bearbeitung sperren
+# User Story 44: Gerät während Bearbeitung sperren
+
 Als Operator
 möchte ich ein Gerät automatisch sperren, sobald ich mit der Bearbeitung beginne,
 damit kein anderer Operator gleichzeitig Änderungen vornimmt.

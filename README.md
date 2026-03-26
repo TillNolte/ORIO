@@ -15,11 +15,13 @@ Diese Dokumentation richtet sich an Teams, die Windows-Update-Rollouts planen, k
 ## Scope
 
 In Scope:
+
 - Fachliche Beschreibung von Anforderungen, Abläufen und Arbeitspaketen rund um Update-Rollouts
 - Strukturierung über Epics, User Stories und Use Cases
 - Aufgabensteuerung mit `bd` (beads)
 
 Out of Scope:
+
 - Ausführbare Softwarekomponenten oder Automatisierungsskripte in diesem Repository
 - Technische Betriebsdokumentation einzelner Tools außerhalb des hier definierten Fachkontexts
 
@@ -49,6 +51,7 @@ Hinweis zur Benennung: Im Repository existieren sowohl `Entitäten.md` als auch 
 - Schreibrechte im Repository (für Issue- und Dokumentationspflege)
 
 Optional:
+
 - GitHub-Zugang für Zusammenarbeit über Remote-Repository
 
 ## Arbeitsweise (Issue Tracking mit bd)
@@ -63,7 +66,7 @@ bd show <id>
 bd update <id> --status in_progress
 bd close <id>
 bd vc status
-bd vc commit -m "update beads data"   # nur wenn uncommitted Aenderungen vorhanden sind
+bd vc commit -m "update beads data"   # nur wenn uncommitted Änderungen vorhanden sind
 ```
 
 Zur Erstinitialisierung (falls noch nicht erfolgt):
@@ -89,21 +92,22 @@ bd onboard
 6. Aufgabe mit `bd close <id>` abschließen
 
 Empfehlung vor Abschluss:
+
 - Konsistenz der Begriffe in `User_Stories/`, `Use_Cases/`, `Epics.md` und Entitäten-Dokumenten prüfen
 - Verweise auf IDs (`US-*`, `UC-*`, `E*`) gegenprüfen
 
-## Haeufige Stolperfallen
+## Häufige Stolperfallen
 
-- Uneinheitliche Begriffe zwischen User Stories, Use Cases und Entitaeten
-	Gegenmassnahme: Vor dem Abschluss zentrale Begriffe in allen betroffenen Dateien querpruefen.
+- Uneinheitliche Begriffe zwischen User Stories, Use Cases und Entitäten
+ Gegenmaßnahme: Vor dem Abschluss zentrale Begriffe in allen betroffenen Dateien querprüfen.
 - Falsche oder fehlende ID-Referenzen (`US-*`, `UC-*`, `E*`)
-	Gegenmassnahme: Jede neu eingefuegte Referenz einmal gegen die Quelldatei pruefen.
+ Gegenmaßnahme: Jede neu eingefügte Referenz einmal gegen die Quelldatei prüfen.
 - Aufgabe in `bd` begonnen, aber Status nicht aktualisiert
-	Gegenmassnahme: Direkt nach Start `bd update <id> --status in_progress` ausfuehren.
-- Uncommitted Aenderungen in der bd-Datenbank uebersehen
-	Gegenmassnahme: Nach Commit `bd vc status` pruefen und bei Bedarf `bd vc commit -m "update beads data"` ausfuehren.
+ Gegenmaßnahme: Direkt nach Start `bd update <id> --status in_progress` ausführen.
+- Uncommitted Änderungen in der bd-Datenbank übersehen
+ Gegenmaßnahme: Nach Commit `bd vc status` prüfen und bei Bedarf `bd vc commit -m "update beads data"` ausführen.
 - Verwechslung bei historisch gewachsener Benennung (`Entitäten.md` vs. `Entitaeten/`)
-	Gegenmassnahme: Beim Verlinken bewusst auf den exakten Dateinamen bzw. Ordnernamen achten.
+ Gegenmaßnahme: Beim Verlinken bewusst auf den exakten Dateinamen bzw. Ordnernamen achten.
 
 ## Aktueller Stand
 
@@ -118,9 +122,10 @@ Repository Owner: TillNolte
 Die Inhalte dieses Repositorys stehen unter der Lizenz `Creative Commons BY-NC 4.0`.
 
 Kurz gesagt:
+
 - Weitergabe und Bearbeitung sind erlaubt
 - Namensnennung ist erforderlich
 - Kommerzielle Nutzung ist nicht erlaubt
 
 Details siehe `LICENSE` oder:
-https://creativecommons.org/licenses/by-nc/4.0/
+<https://creativecommons.org/licenses/by-nc/4.0/>

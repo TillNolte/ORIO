@@ -1,4 +1,5 @@
-User Story 42: Paralleles Arbeiten mehrerer Operatoren ermöglichen
+# User Story 42: Paralleles Arbeiten mehrerer Operatoren ermöglichen
+
 Als Operator
 möchte ich parallel mit anderen Operatoren in der Applikation arbeiten können,
 damit mehrere PCs gleichzeitig aktualisiert und dokumentiert werden können.

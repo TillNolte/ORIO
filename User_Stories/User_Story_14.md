@@ -1,4 +1,5 @@
-User Story 14: Begründung für Update-Ausschluss dokumentieren
+# User Story 14: Begründung für Update-Ausschluss dokumentieren
+
 Als Operator
 möchte ich beim Ausschließen eines Geräts den Grund dokumentieren,
 damit ich später nachvollziehen kann, warum kein Update durchgeführt wurde.

@@ -1,4 +1,5 @@
-User Story 7: Update-Probleme dokumentieren
+# User Story 7: Update-Probleme dokumentieren
+
 Als Operator
 möchte ich Fehler oder Probleme während eines Updates erfassen,
 damit ich sie später nachvollziehen und beheben kann.

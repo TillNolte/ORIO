@@ -1,4 +1,5 @@
-User Story 22: Abschlussstatus „Update fertig“ erfassen
+# User Story 22: Abschlussstatus „Update fertig“ erfassen
+
 Als Operator
 möchte ich dokumentieren können, ob ein PC vollständig auf 25H2 aktualisiert wurde,
 damit ich den Update-Erfolg eindeutig festhalten kann.

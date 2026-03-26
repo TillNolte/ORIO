@@ -1,4 +1,5 @@
-User Story 41: Unvollständige Dokumentationen kennzeichnen
+# User Story 41: Unvollständige Dokumentationen kennzeichnen
+
 Als Operator
 möchte ich unvollständig dokumentierte Geräte erkennen können,
 damit ich sie gezielt nachbearbeiten kann.

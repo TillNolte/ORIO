@@ -1,4 +1,5 @@
-User Story 1: Geräteliste mit Update-Status anzeigen
+# User Story 1: Geräteliste mit Update-Status anzeigen
+
 Als Operator
 möchte ich eine zentrale Übersicht aller Windows-Clients mit aktuellem Update-Status sehen,
 damit ich gezielt entscheiden kann, welche Geräte noch aktualisiert werden müssen.

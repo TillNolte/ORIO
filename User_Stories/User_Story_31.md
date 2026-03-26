@@ -1,4 +1,5 @@
-User Story 31: Fehler „Gerät zu alt“ erfassen
+# User Story 31: Fehler „Gerät zu alt“ erfassen
+
 Als Operator
 möchte ich ein Gerät als technisch zu alt kennzeichnen können,
 damit klar ist, dass kein Update mehr durchgeführt wird.

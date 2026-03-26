@@ -1,4 +1,5 @@
-    • Nutzer
+# • Nutzer
+
         ○ Benutzertyp
             ▪ Ausbilder
             ▪ Auszubildender

@@ -1,4 +1,5 @@
-User Story 53: Offene Geräte priorisiert anzeigen
+# User Story 53: Offene Geräte priorisiert anzeigen
+
 Als Operator
 möchte ich offene Geräte priorisiert angezeigt bekommen,
 damit ich effizient weiterarbeiten kann.

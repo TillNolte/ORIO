@@ -1,4 +1,5 @@
-User Story 30: Fehler „Keine Verbindung zum Unternehmensnetz“ dokumentieren
+# User Story 30: Fehler „Keine Verbindung zum Unternehmensnetz“ dokumentieren
+
 Als Operator
 möchte ich festhalten können, dass ein Gerät keine Verbindung zum Unternehmensnetz hat,
 damit der Update-Abbruch nachvollziehbar ist.

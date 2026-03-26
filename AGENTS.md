@@ -1,41 +1,44 @@
-# Agent Instructions
+# Agent-Anweisungen
 
-This project uses **bd** (beads) for issue tracking. Run `bd onboard` to get started.
+Dieses Projekt verwendet **bd** (beads) für das Issue-Tracking. Führe `bd onboard` aus, um zu starten.
 
-## Quick Reference
+## Schnellreferenz
 
 ```bash
-bd ready              # Find available work
-bd show <id>          # View issue details
-bd update <id> --status in_progress  # Claim work
-bd close <id>         # Complete work
-bd vc status          # Check Dolt-backed beads changes
-bd vc commit -m "update beads data"  # Commit beads changes if needed
+bd ready              # Verfügbare Arbeit finden
+bd show <id>          # Issue-Details anzeigen
+bd update <id> --status in_progress  # Arbeit übernehmen
+bd close <id>         # Arbeit abschließen
+bd vc status          # Dolt-basierte beads-Änderungen prüfen
+bd vc commit -m "update beads data"  # beads-Änderungen committen, falls nötig
 ```
 
-## Landing the Plane (Session Completion)
+## Landung Abschließen (Sitzungsende)
 
-**When ending a work session**, you MUST complete ALL steps below. Work is NOT complete until `git push` succeeds.
+**Beim Beenden einer Arbeitssitzung** MÜSSEN alle folgenden Schritte abgeschlossen werden. Die Arbeit ist NICHT fertig, bis `git push` erfolgreich war.
 
-**MANDATORY WORKFLOW:**
+**VERBINDLICHER ABLAUF:**
 
-1. **File issues for remaining work** - Create issues for anything that needs follow-up
-2. **Run quality gates** (if code changed) - Tests, linters, builds
-3. **Update issue status** - Close finished work, update in-progress items
-4. **PUSH TO REMOTE** - This is MANDATORY:
+1. **Issues für verbleibende Arbeit anlegen** - Erstelle Issues für alles, was nachverfolgt werden muss
+2. **Qualitätsprüfungen ausführen** (wenn Code geändert wurde) - Tests, Linter, Builds
+3. **Issue-Status aktualisieren** - Abgeschlossene Arbeit schließen, laufende Arbeit aktualisieren
+4. **IN DAS REMOTE PUSHEN** - Das ist VERPFLICHTEND:
+
    ```bash
    git pull --rebase
    bd vc status
-   bd vc commit -m "update beads data"  # if bd changes are pending
+   bd vc commit -m "update beads data"  # falls bd-Änderungen ausstehen
    git push
-   git status  # MUST show "up to date with origin"
+   git status  # MUSS "up to date with origin" anzeigen
    ```
-5. **Clean up** - Clear stashes, prune remote branches
-6. **Verify** - All changes committed AND pushed
-7. **Hand off** - Provide context for next session
 
-**CRITICAL RULES:**
-- Work is NOT complete until `git push` succeeds
-- NEVER stop before pushing - that leaves work stranded locally
-- NEVER say "ready to push when you are" - YOU must push
-- If push fails, resolve and retry until it succeeds
+5. **Aufräumen** - Stashes leeren, Remote-Branches bereinigen
+6. **Verifizieren** - Alle Änderungen sind committed UND gepusht
+7. **Übergabe** - Kontext für die nächste Sitzung bereitstellen
+
+**KRITISCHE REGELN:**
+
+- Die Arbeit ist NICHT fertig, bis `git push` erfolgreich war
+- NIEMALS vor dem Push stoppen - sonst bleiben Änderungen lokal liegen
+- NIEMALS sagen "ready to push when you are" - DU musst pushen
+- Falls Push fehlschlägt, Problem beheben und erneut versuchen, bis es klappt

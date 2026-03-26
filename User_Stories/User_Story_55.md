@@ -1,4 +1,5 @@
-User Story 55: Doppelte Geräte erkennen und kennzeichnen
+# User Story 55: Doppelte Geräte erkennen und kennzeichnen
+
 Als Operator
 möchte ich potenziell doppelte Geräte erkennen können,
 damit ich diese gezielt überprüfen und korrekt dokumentieren kann.

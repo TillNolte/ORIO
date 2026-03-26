@@ -1,4 +1,5 @@
-User Story 43: Aktiven Bearbeiter eines Geräts anzeigen
+# User Story 43: Aktiven Bearbeiter eines Geräts anzeigen
+
 Als Operator
 möchte ich sehen, welcher Operator gerade an einem Gerät arbeitet,
 damit Doppelarbeit vermieden wird.

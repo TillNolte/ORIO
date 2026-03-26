@@ -1,4 +1,5 @@
-User Story 56: Doppelte Geräte manuell korrekt zuordnen
+# User Story 56: Doppelte Geräte manuell korrekt zuordnen
+
 Als Operator
 möchte ich bei doppelten Geräten entscheiden können, welcher Datensatz korrekt ist,
 damit die Dokumentation bereinigt wird.

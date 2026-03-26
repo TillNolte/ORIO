@@ -1,4 +1,5 @@
-User Story 46: Rolle „Teamleiter“ definieren
+# User Story 46: Rolle „Teamleiter“ definieren
+
 Als Administrator
 möchte ich eine Rolle „Teamleiter“ definieren,
 damit Übersicht und operative Mitarbeit kombiniert möglich sind.

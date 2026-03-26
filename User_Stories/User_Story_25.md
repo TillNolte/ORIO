@@ -1,4 +1,5 @@
-User Story 25: Abgebrochenes Update kennzeichnen
+# User Story 25: Abgebrochenes Update kennzeichnen
+
 Als Operator
 möchte ich ein Update als „abgebrochen“ kennzeichnen können,
 damit klar ist, dass der Prozess nicht erfolgreich abgeschlossen wurde.

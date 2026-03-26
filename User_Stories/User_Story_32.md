@@ -1,4 +1,5 @@
-User Story 32: Lösungsvorschläge zu bekannten Fehlern anzeigen
+# User Story 32: Lösungsvorschläge zu bekannten Fehlern anzeigen
+
 Als Operator
 möchte ich bei bekannten Fehlern einen Lösungsvorschlag sehen,
 damit ich weiß, was konkret zu tun ist.

@@ -1,4 +1,5 @@
-User Story 13: Geräte als „Update ausgeschlossen“ markieren
+# User Story 13: Geräte als „Update ausgeschlossen“ markieren
+
 Als Operator
 möchte ich Geräte als „Update ausgeschlossen“ markieren können,
 damit ich alte PCs, die ersetzt werden müssen, klar vom Update-Prozess ausschließe.

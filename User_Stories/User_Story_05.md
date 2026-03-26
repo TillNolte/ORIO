@@ -1,4 +1,5 @@
-User Story 5: Geräte mit veralteter Version hervorheben
+# User Story 5: Geräte mit veralteter Version hervorheben
+
 Als Operator
 möchte ich Geräte mit einer älteren Windows-Version visuell hervorheben,
 damit ich Prioritäten setzen kann.

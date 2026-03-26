@@ -1,4 +1,5 @@
-User Story 50: Fortschritt pro Standort vergleichen
+# User Story 50: Fortschritt pro Standort vergleichen
+
 Als Operator
 möchte ich den Update-Fortschritt pro Standort vergleichen können,
 damit ich erkenne, wo noch besonders viele Geräte offen sind.

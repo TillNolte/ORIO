@@ -1,4 +1,5 @@
-User Story 17: Update-Quelle „USB-Stick“ festlegen
+# User Story 17: Update-Quelle „USB-Stick“ festlegen
+
 Als Operator
 möchte ich die Update-Quelle eindeutig auf „USB-Stick“ festlegen,
 damit der Update-Prozess standardisiert und fehlerfrei abläuft.

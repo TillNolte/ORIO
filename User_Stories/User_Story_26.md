@@ -1,4 +1,5 @@
-User Story 26: Neustart des Update-Prozesses erzwingen
+# User Story 26: Neustart des Update-Prozesses erzwingen
+
 Als Operator
 möchte ich nach einem Abbruch den Update-Prozess vollständig neu starten,
 damit der Standardablauf wieder von Anfang an eingehalten wird.

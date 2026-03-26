@@ -1,4 +1,5 @@
-User Story 27: Fehler während des Updates erfassen
+# User Story 27: Fehler während des Updates erfassen
+
 Als Operator
 möchte ich während oder nach einem Update einen Fehler erfassen können,
 damit ich Probleme nachvollziehbar dokumentiere.

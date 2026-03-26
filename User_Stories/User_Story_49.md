@@ -1,4 +1,5 @@
-User Story 49: Gesamtfortschritt aller Updates anzeigen
+# User Story 49: Gesamtfortschritt aller Updates anzeigen
+
 Als Operator
 möchte ich den Gesamtfortschritt aller Windows-Updates sehen,
 damit ich weiß, wie viele Geräte bereits aktualisiert sind und wie viele noch offen sind.

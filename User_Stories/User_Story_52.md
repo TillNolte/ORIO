@@ -1,4 +1,5 @@
-User Story 52: Durchschnittliche Update-Dauer anzeigen
+# User Story 52: Durchschnittliche Update-Dauer anzeigen
+
 Als Teamleiter
 möchte ich die durchschnittliche Dauer von Updates sehen,
 damit ich den Aufwand realistisch einschätzen kann.

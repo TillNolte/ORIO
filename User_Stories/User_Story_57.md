@@ -1,4 +1,5 @@
-User Story 57: Geräte über Suche finden
+# User Story 57: Geräte über Suche finden
+
 Als Operator
 möchte ich Geräte über eine Suchfunktion finden können,
 damit ich schnell den richtigen PC identifiziere.

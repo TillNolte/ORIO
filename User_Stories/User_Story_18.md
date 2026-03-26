@@ -1,4 +1,5 @@
-User Story 18: USB-basierte Updates eindeutig kennzeichnen
+# User Story 18: USB-basierte Updates eindeutig kennzeichnen
+
 Als Operator
 möchte ich erkennen können, dass ein Update per USB durchgeführt wurde,
 damit ich den Prozess später nachvollziehen kann.

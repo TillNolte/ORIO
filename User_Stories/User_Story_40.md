@@ -1,4 +1,5 @@
-User Story 40: Korrekturen begründen müssen
+# User Story 40: Korrekturen begründen müssen
+
 Als Operator
 möchte ich bei nachträglichen Änderungen eine Begründung angeben müssen,
 damit nachvollziehbar ist, warum Daten angepasst wurden.

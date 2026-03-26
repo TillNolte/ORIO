@@ -1,4 +1,4 @@
-Epic E1 – Geräteübersicht & Navigation
+# Epic E1 – Geräteübersicht & Navigation
 
 Ziel: Geräte schnell finden, überblicken und priorisieren
 

@@ -1,4 +1,4 @@
-Epic E3 – Update-Ermittlung & Zielversionen
+# Epic E3 – Update-Ermittlung & Zielversionen
 
 Ziel: Technischen Update-Bedarf korrekt bestimmen
 

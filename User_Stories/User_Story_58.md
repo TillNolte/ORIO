@@ -1,4 +1,5 @@
-User Story 58: Übereinstimmung von Hostname und IP prüfen
+# User Story 58: Übereinstimmung von Hostname und IP prüfen
+
 Als Operator
 möchte ich prüfen können, ob ein Hostname zur angegebenen IP-Adresse passt,
 damit Fehlzuordnungen vermieden werden.

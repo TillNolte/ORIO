@@ -1,4 +1,4 @@
-Epic E2 – Geräteverwaltung & Datenqualität
+# Epic E2 – Geräteverwaltung & Datenqualität
 
 Ziel: Korrekte, vollständige und konsistente Gerätedaten sicherstellen
 

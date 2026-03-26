@@ -1,4 +1,5 @@
-    • Medium
+# • Medium
+
         ○ Bezeichnung
         ○ Pfad
         ○ Notiz

@@ -1,4 +1,4 @@
-Epic E8 – Zusammenarbeit & Sperrmechanismen
+# Epic E8 – Zusammenarbeit & Sperrmechanismen
 
 Ziel: Paralleles Arbeiten ohne Konflikte ermöglichen
 
