@@ -9,5 +9,7 @@ Akzeptanzkriterien:
         ○ Beschreibung
         ○ Zielversion
         ○ Update-Art
+    • Name, Beschreibung, Zielversion und Update-Art sind Pflichtfelder
+    • Start- und Enddatum sind optional
     • Geräte können einer Kampagne zugeordnet werden
     • Eine Kampagne ist nicht zwingend zeitlich begrenzt
