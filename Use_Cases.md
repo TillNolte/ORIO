@@ -256,7 +256,7 @@ UC-32 Gerät einer aktiven Kampagne zuordnen und Wechsel historisieren
 
 Akteur: Operator
 
-Ziel: Gerät genau einer aktiven Kampagne zuordnen; Wechsel möglich; Historisierung.
+Ziel: Gerät genau einer aktiven Kampagne zuordnen; Wechsel mit automatischem Abschluss der vorherigen Zuordnung; Historisierung mit Zeitbezug und Operator.
 
 Deckt ab: US67
 

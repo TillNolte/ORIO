@@ -11,3 +11,9 @@
             ▪ Server
         ○ Notiz
         ○ Ort (FK)
+        ○ Aktive Kampagne (FK, optional)
+        ○ Kampagnenzuordnungsverlauf [1:n]
+            ▪ Kampagne (FK)
+            ▪ Startzeitpunkt
+            ▪ Endzeitpunkt
+            ▪ Operator (FK)

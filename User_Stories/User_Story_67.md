@@ -7,3 +7,5 @@ Akzeptanzkriterien:
     • Ein Gerät kann genau einer aktiven Kampagne zugeordnet sein
     • Kampagnenwechsel ist möglich
     • Kampagnenzuordnung ist historisiert
+    • Bei Kampagnenwechsel wird die bisherige aktive Zuordnung automatisch beendet
+    • Historie enthält mindestens: Gerät, Kampagne, Startzeitpunkt, Endzeitpunkt, Operator
