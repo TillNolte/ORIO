@@ -33,6 +33,12 @@ Attribute
             ▪ Ergebnis (stimmig/abweichend)
             ▪ Kommentar
             ▪ Prüfzeitpunkt
+        ○ Dublettenentscheidung
+            ▪ Ist korrekter Datensatz
+            ▪ Maßnahme Alternativdatensatz (korrigiert/hinweis)
+            ▪ Hinweistext
+            ▪ Entscheidungszeitpunkt
+            ▪ Operator (FK)
         ○ Letzte Schnellaktion
             ▪ Aktion
             ▪ Ergebnis (erfolgreich/fehlgeschlagen)

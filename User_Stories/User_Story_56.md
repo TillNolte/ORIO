@@ -9,3 +9,4 @@ Akzeptanzkriterien:
         ○ korrigiert oder
         ○ mit einem Hinweis versehen werden
     • Entscheidung wird in der Historie dokumentiert
+    • Entscheidung enthält Zeitstempel und verantwortlichen Operator
