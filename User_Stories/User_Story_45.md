@@ -1,7 +1,7 @@
 # User Story 45: Sperre nach Abschluss oder Abbruch aufheben
 
 Als Operator
-möchte ich dass die Gerätesperre nach Abschluss oder Abbruch automatisch aufgehoben wird,
+möchte ich, dass die Gerätesperre nach Abschluss oder Abbruch automatisch aufgehoben wird,
 damit andere Operatoren weiterarbeiten können.
 Akzeptanzkriterien:
     • Sperre wird aufgehoben bei:

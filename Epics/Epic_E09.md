@@ -4,4 +4,4 @@ Ziel: Zeitnah auf Probleme reagieren
 
 User Stories:
 
-US 8 – Benachrichtigung bei Update-Fehlern
+US-8 – Benachrichtigung bei Update-Fehlern

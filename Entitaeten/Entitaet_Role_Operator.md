@@ -2,7 +2,7 @@
 
         ○ Vorname
         ○ Nachname
-        ○ E-Mail Adresse
+        ○ E-Mail-Adresse
         ○ Kennwort
         ○ Ausbildungsberuf
             ▪ FISI

@@ -6,4 +6,4 @@ damit der Fokus auf kontinuierlicher Verbesserung liegt.
 Akzeptanzkriterien:
     • Keine Pflicht zur Eingabe von Zielen oder Deadlines
     • Fortschritt basiert ausschließlich auf realen Statusdaten
-    • Historische Entwicklung (z. B. „vor 2 Wochen vs. heute“) ist einsehbar
+    • Historische Entwicklung (z. B. „vor 2 Wochen im Vergleich zu heute“) ist einsehbar

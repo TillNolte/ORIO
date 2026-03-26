@@ -4,10 +4,10 @@ Ziel: Paralleles Arbeiten ohne Konflikte ermöglichen
 
 User Stories:
 
-US 42 – Paralleles Arbeiten mehrerer Operatoren
+US-42 – Paralleles Arbeiten mehrerer Operatoren
 
-US 43 – Aktiven Bearbeiter anzeigen
+US-43 – Aktiven Bearbeiter anzeigen
 
-US 44 – Gerät während Bearbeitung sperren
+US-44 – Gerät während Bearbeitung sperren
 
-US 45 – Sperre automatisch aufheben
+US-45 – Sperre automatisch aufheben

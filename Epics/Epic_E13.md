@@ -4,8 +4,8 @@ Ziel: Zugriff und Verantwortung steuern
 
 User Stories:
 
-US 12 – Rollenbasierte Zugriffssteuerung
+US-12 – Rollenbasierte Zugriffssteuerung
 
-US 46 – Rolle „Teamleiter“ definieren
+US-46 – Rolle „Teamleiter“ definieren
 
-US 47 – Übersicht für Teamleiter bereitstellen
+US-47 – Übersicht für Teamleiter bereitstellen

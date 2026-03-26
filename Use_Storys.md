@@ -59,7 +59,7 @@ Als Operator
 möchte ich Fehler oder Probleme während eines Updates erfassen,
 damit ich sie später nachvollziehen und beheben kann.
 Akzeptanzkriterien:
-    • Fehlerstatus pro Gerät setz bar
+    • Fehlerstatus pro Gerät setzbar
     • Freitextfeld zur Fehlerbeschreibung vorhanden
     • Fehler bleiben in der Gerätehistorie sichtbar
 
@@ -86,7 +86,7 @@ Als Operator
 möchte ich ein Dashboard mit dem Gesamtstatus aller Geräte sehen,
 damit ich den Fortschritt schnell überblicken kann.
 Akzeptanzkriterien:
-    • Anzahl aktualisierter vs. nicht aktualisierter Geräte
+    • Anzahl aktualisierter gegenüber nicht aktualisierten Geräten
     • Anzeige nach Standort möglich
     • Automatische Aktualisierung der Daten
 
@@ -108,15 +108,6 @@ Akzeptanzkriterien:
     • Rechte beeinflussen Sichtbarkeit und Bearbeitungsmöglichkeiten
     • Änderungen werden protokolliert
 
-User Story 14: Begründung für Update-Ausschluss dokumentieren
-Als Operator
-möchte ich beim Ausschließen eines Geräts den Grund dokumentieren,
-damit ich später nachvollziehen kann, warum kein Update durchgeführt wurde.
-Akzeptanzkriterien:
-    • Beim Setzen des Status „Update ausgeschlossen“ ist ein Begründungsfeld erforderlich
-    • Begründung wird dauerhaft im Gerätedatensatz gespeichert
-    • Begründung ist im Export und in der Historie sichtbar
-
 User Story 13: Geräte als „Update ausgeschlossen“ markieren
 Als Operator
 möchte ich Geräte als „Update ausgeschlossen“ markieren können,
@@ -126,6 +117,15 @@ Akzeptanzkriterien:
     • Ausgeschlossene Geräte werden nicht als updatepflichtig angezeigt
     • Der Ausschlussstatus ist in der Geräteübersicht sichtbar
     • Ein Kommentar (z. B. „Gerät zu alt – Ersatz geplant“) ist verpflichtend
+
+User Story 14: Begründung für Update-Ausschluss dokumentieren
+Als Operator
+möchte ich beim Ausschließen eines Geräts den Grund dokumentieren,
+damit ich später nachvollziehen kann, warum kein Update durchgeführt wurde.
+Akzeptanzkriterien:
+    • Beim Setzen des Status „Update ausgeschlossen“ ist ein Begründungsfeld erforderlich
+    • Begründung wird dauerhaft im Gerätedatensatz gespeichert
+    • Begründung ist im Export und in der Historie sichtbar
 
 User Story 15: Speicherplatzprüfung vor lokalem ISO-Kopieren
 Als Operator
@@ -344,7 +344,7 @@ Akzeptanzkriterien:
 
 User Story 36: Pflichtfelder automatisch vorbelegen
 Als Operator
-möchte ich das bekannte Informationen automatisch vorbelegt werden,
+möchte ich, dass bekannte Informationen automatisch vorbelegt werden,
 damit ich manuelle Eingaben und Fehler reduziere.
 Akzeptanzkriterien:
     • OS-Version, Build und IP-Adresse können automatisch ermittelt werden
@@ -428,7 +428,7 @@ Akzeptanzkriterien:
 
 User Story 45: Sperre nach Abschluss oder Abbruch aufheben
 Als Operator
-möchte ich dass die Gerätesperre nach Abschluss oder Abbruch automatisch aufgehoben wird,
+möchte ich, dass die Gerätesperre nach Abschluss oder Abbruch automatisch aufgehoben wird,
 damit andere Operatoren weiterarbeiten können.
 Akzeptanzkriterien:
     • Sperre wird aufgehoben bei:
@@ -533,7 +533,7 @@ damit der Fokus auf kontinuierlicher Verbesserung liegt.
 Akzeptanzkriterien:
     • Keine Pflicht zur Eingabe von Zielen oder Deadlines
     • Fortschritt basiert ausschließlich auf realen Statusdaten
-    • Historische Entwicklung (z. B. „vor 2 Wochen vs. heute“) ist einsehbar
+    • Historische Entwicklung (z. B. „vor 2 Wochen im Vergleich zu heute“) ist einsehbar
 
 User Story 56: Doppelte Geräte manuell korrekt zuordnen
 Als Operator
