@@ -12,3 +12,5 @@ Akzeptanzkriterien:
         ○ Ausgeschlossen
     • Fortschritt ist unabhängig von anderen Kampagnen
     • Vergleich mehrerer Kampagnen möglich
+    • Kennzahlen werden je Kampagne ausschließlich aus den der Kampagne aktiv zugeordneten Geräten berechnet
+    • Vergleichsansicht zeigt Kampagnen nebeneinander mit identischen Kennzahlen

@@ -10,3 +10,9 @@
     ○ Erstelldatum
     ○ Aktualisierungsdatum
     ○ Notiz
+    ○ Fortschritt (abgeleitet)
+        ▪ Gesamtgeräte
+        ▪ Aktualisiert
+        ▪ Offen
+        ▪ Fehlerhaft
+        ▪ Ausgeschlossen
