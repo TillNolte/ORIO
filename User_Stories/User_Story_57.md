@@ -9,3 +9,4 @@ Akzeptanzkriterien:
         ○ IP-Adresse
     • Suchergebnisse werden sofort angezeigt
     • Suche funktioniert auch bei Teilbegriffen
+    • Suche kann Hostname und IP-Adresse unabhängig voneinander oder kombiniert auswerten

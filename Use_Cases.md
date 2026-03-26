@@ -10,7 +10,7 @@ UC-02 Geräte suchen, filtern und sortieren
 
 Akteur: Operator, Viewer, Teamleiter
 
-Ziel: Geräte über Suche (Hostname/IP) finden, nach Standort/Status/Version/Typ filtern und sortieren.
+Ziel: Geräte über Suche (Hostname/IP) finden, auch über Teilbegriffe; Treffer bei Eingabe direkt aktualisieren; nach Standort/Status/Version/Typ filtern und sortieren.
 
 Deckt ab: US1, US3, US5, US50, US53, US57, US62, US65
 

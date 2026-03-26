@@ -2,6 +2,7 @@
 
         ○ Hostname
         ○ IP-Adresse
+        ○ Suchindex (abgeleitet aus Hostname und IP-Adresse)
         ○ Betriebssystem
             ▪ Windows 11
             ▪ Version (25H2)
