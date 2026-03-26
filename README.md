@@ -42,7 +42,7 @@ Hinweis zur Benennung: Im Repository existieren sowohl `Entitäten.md` als auch 
 2. `Epics.md` - Fachliche Bündelung und Priorisierung
 3. `Use_Cases/` - Ablauf- und Interaktionssicht
 4. `User_Stories/` - Detaillierte Einzelanforderungen
-5. `Entitäten.md` und `Entitaeten/` - Fachobjekte und Begriffe
+5. `Entitäten.md` und `Entitäten/` - Fachobjekte und Begriffe
 
 ## Voraussetzungen
 
@@ -106,7 +106,7 @@ Empfehlung vor Abschluss:
  Gegenmaßnahme: Direkt nach Start `bd update <id> --status in_progress` ausführen.
 - Uncommitted Änderungen in der bd-Datenbank übersehen
  Gegenmaßnahme: Nach Commit `bd vc status` prüfen und bei Bedarf `bd vc commit -m "update beads data"` ausführen.
-- Verwechslung bei historisch gewachsener Benennung (`Entitäten.md` vs. `Entitaeten/`)
+- Verwechslung bei historisch gewachsener Benennung (`Entitäten.md` vs. `Entitäten/`)
  Gegenmaßnahme: Beim Verlinken bewusst auf den exakten Dateinamen bzw. Ordnernamen achten.
 
 ## Aktueller Stand
