@@ -596,6 +596,8 @@ Akzeptanzkriterien:
     • Kurze Bestätigung (z. B. Icon oder Hinweis)
     • Fehler bei Speicherung werden klar angezeigt
     • Statusänderung ist sofort sichtbar
+    • Bei erfolgreicher Schnellaktion wird der neue Status ohne Neuladen in der Übersicht angezeigt
+    • Bei fehlgeschlagener Schnellaktion bleibt der vorherige Status erhalten
 
 User Story 61: Speichern ohne technische Pflichtprüfungen ermöglichen
 Als Operator

@@ -28,6 +28,11 @@ Attribute
         ○ Wirksame Zielversion (abgeleitet aus Gerät oder globaler Standard-Zielversion)
         ○ Dokumentation unvollständig
         ○ Dokumentationshinweis
+        ○ Letzte Schnellaktion
+            ▪ Aktion
+            ▪ Ergebnis (erfolgreich/fehlgeschlagen)
+            ▪ Hinweistext
+            ▪ Zeitpunkt
         ○ Aktive Kampagne (FK, optional)
         ○ Kampagnenzuordnungsverlauf [1:n]
             ▪ Kampagne (FK)
