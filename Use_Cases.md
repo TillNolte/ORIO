@@ -59,7 +59,7 @@ UC-08 Zielversion und Windows-Versionen konfigurieren
 
 Akteur: Teamleiter, Administrator (je nach Rollenmodell)
 
-Ziel: Zielversion global und/oder pro Gerät verwalten; globale Standard-Zielversion als Fallback nutzen; Zielversion in Übersicht/Historie/Export sichtbar halten.
+Ziel: Zielversion global und/oder pro Gerät verwalten; Windows-Versionen über konfigurierbaren Katalog pflegen; globale Standard-Zielversion als Fallback nutzen; Filterbarkeit nach Windows-Version in Reports sicherstellen.
 
 Deckt ab: US5, US62, US63
 

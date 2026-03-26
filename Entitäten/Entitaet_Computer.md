@@ -5,6 +5,7 @@
         ○ Betriebssystem
             ▪ Windows 11
             ▪ Version (25H2)
+        ○ Windows-Version (FK)
         ○ Typ
             ▪ PC
             ▪ Laptop

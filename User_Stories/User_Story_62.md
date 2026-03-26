@@ -8,3 +8,4 @@ Akzeptanzkriterien:
     • Neue Versionen (z. B. zukünftige Windows-11- oder Windows-12-Versionen) können konfiguriert werden
     • Geräte sind eindeutig einer Windows-Version zugeordnet
     • Reports können nach Windows-Version gefiltert werden
+    • Geräte verwenden eine Version aus dem konfigurierbaren Versionskatalog

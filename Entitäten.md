@@ -6,6 +6,7 @@
 • Medium
 • Laufplan
 • Kampagne
+• Windows-Version
 • Role = Operator / Viewer
 
 Attribute
@@ -16,6 +17,7 @@ Attribute
         ○ Betriebssystem
             ▪ Windows 11
             ▪ Version (25H2)
+        ○ Windows-Version (FK)
         ○ Typ
             ▪ PC
             ▪ Laptop
@@ -102,3 +104,11 @@ Attribute
             ▪ Offen
             ▪ Fehlerhaft
             ▪ Ausgeschlossen
+    • Windows-Version
+        ○ Name
+        ○ Release-Bezeichnung
+        ○ Build
+        ○ Ist aktiv
+        ○ Erstelldatum
+        ○ Aktualisierungsdatum
+        ○ Notiz
