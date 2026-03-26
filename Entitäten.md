@@ -72,6 +72,7 @@ Attribute
             ▪ Update-Art
                 • Feature-Update
                 • Qualitätsupdate
+                • Pflichtfeld, für Bestandsdaten mit Default-Wert
             ▪ Notiz
             ▪ Erfolgreich
                 • Ja

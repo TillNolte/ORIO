@@ -635,6 +635,7 @@ Akzeptanzkriterien:
         ○ Qualitätsupdate
     • Update-Art ist in Historie, Übersicht und Export sichtbar
     • Bestehende Updates bleiben kompatibel (Default-Wert)
+    • Für bestehende Datensätze ohne Update-Art wird beim Laden ein Default-Wert verwendet
 
 User Story 65: Auswertung nach Update-Art ermöglichen
 Als Teamleiter
