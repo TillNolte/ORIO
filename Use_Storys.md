@@ -457,7 +457,8 @@ Akzeptanzkriterien:
         ○ Anzahl offener, bearbeiteter, abgeschlossener Geräte
         ○ Aktive Operatoren
     • Filter nach Standort möglich
-    • Übersicht ist read-only, solange Teamleiter nicht aktiv bearbeitet
+    • Übersicht ist standardmäßig read-only für Teamleiter
+    • Schreibende Aktionen sind erst nach explizitem Wechsel in den Bearbeitungsmodus möglich
 
 User Story 48: Bearbeitungshistorie pro Operator anzeigen
 Als Teamleiter

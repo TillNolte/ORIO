@@ -190,7 +190,7 @@ UC-24 Dashboard/Übersichten anzeigen (gesamt, pro Standort, pro Kampagne)
 
 Akteur: Operator, Viewer, Teamleiter
 
-Ziel: Fortschritt/Statuszahlen anzeigen; nach Standort/Kampagne filtern; Auto-Aktualisierung.
+Ziel: Fortschritt/Statuszahlen anzeigen; nach Standort/Kampagne filtern; Auto-Aktualisierung; Teamleiter-Übersicht standardmäßig read-only.
 
 Deckt ab: US10, US47, US49, US50, US54, US68
 

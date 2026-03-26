@@ -9,5 +9,3 @@ Akzeptanzkriterien:
         ○ Geräte bearbeiten (wie Operator)
         ○ Reports und Übersichten einsehen
     • Rolle ist einem Benutzer eindeutig zugeordnet
-
-(
