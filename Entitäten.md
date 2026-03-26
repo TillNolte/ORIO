@@ -103,6 +103,9 @@ Attribute
             ▪ Erfolgreich
                 • Ja
                 • Nein
+            ▪ Update abgebrochen
+                • Ja
+                • Nein
             ▪ Aktualisierungsdatum
             ▪ Operator (FK)
         ○ Medium (FK)

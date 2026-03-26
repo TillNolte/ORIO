@@ -591,6 +591,7 @@ Akzeptanzkriterien:
         ○ „Update abgebrochen“
     • Aktionen sind direkt in der Geräteübersicht verfügbar
     • Änderungen werden sofort gespeichert
+    • Jede Schnellaktion wird mit Zeitpunkt und Operator protokolliert
 
 User Story 60: Rückmeldung nach Schnellaktionen anzeigen
 Als Operator

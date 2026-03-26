@@ -132,7 +132,7 @@ UC-17 Schnellaktionen ausführen und Feedback anzeigen
 
 Akteur: Operator
 
-Ziel: Statusänderungen (bearbeitet/abgeschlossen/abgebrochen) per 1 Klick; sofortige visuelle Rückmeldung; Statusänderung ohne Neuladen sichtbar; bei Fehlern klarer Hinweis und kein unbeabsichtigter Statuswechsel.
+Ziel: Statusänderungen (bearbeitet/abgeschlossen/abgebrochen) per 1 Klick direkt aus der Übersicht speichern; Aktion mit Operator/Zeitpunkt protokollieren; sofortige visuelle Rückmeldung und klare Fehlerbehandlung sicherstellen.
 
 Deckt ab: US59, US60, US21, US22, US25
 
