@@ -14,6 +14,8 @@
         ○ Ort (FK)
         ○ Zielversion (optional)
         ○ Wirksame Zielversion (abgeleitet aus Gerät oder globaler Standard-Zielversion)
+        ○ Dokumentation unvollständig
+        ○ Dokumentationshinweis
         ○ Aktive Kampagne (FK, optional)
         ○ Kampagnenzuordnungsverlauf [1:n]
             ▪ Kampagne (FK)

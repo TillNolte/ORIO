@@ -264,6 +264,6 @@ UC-33 Unvollständige Dokumentationen erkennen und kennzeichnen
 
 Akteur: Operator, Teamleiter
 
-Ziel: Pflichtfelder prüfen; Status „Dokumentation unvollständig“ setzen; Filter bereitstellen.
+Ziel: Pflichtfelder prüfen; Speichern ohne technische Blockade ermöglichen; Status „Dokumentation unvollständig“ setzen; Filter bereitstellen.
 
 Deckt ab: US35, US41, US61

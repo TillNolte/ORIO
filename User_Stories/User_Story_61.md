@@ -7,3 +7,4 @@ Akzeptanzkriterien:
     • Keine automatischen Blockaden beim Speichern
     • Fehlende oder unklare Angaben können später ergänzt werden
     • Unvollständige Datensätze werden gekennzeichnet (siehe frühere Stories)
+    • Bei fehlenden Angaben wird ein Hinweis angezeigt, das Speichern bleibt jedoch möglich
