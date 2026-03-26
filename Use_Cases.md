@@ -67,7 +67,7 @@ UC-09 Update-Art erfassen und auswerten
 
 Akteur: Operator (erfassen), Teamleiter (auswerten)
 
-Ziel: Feature-/Qualitätsupdate dokumentieren und Auswertungen/Filter ermöglichen.
+Ziel: Feature-/Qualitätsupdate dokumentieren; Filter und separate Zählungen nach Update-Art bereitstellen; konsistente Auswertung und Exportlogik sicherstellen.
 
 Deckt ab: US64, US65, US66
 

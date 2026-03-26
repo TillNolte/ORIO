@@ -7,3 +7,5 @@ Akzeptanzkriterien:
     • Filter nach Update-Art verfügbar
     • Separate Zählung von Feature- und Qualitätsupdates
     • Export berücksichtigt Update-Art
+    • Auswertung kann pro Standort und Zeitraum gefiltert werden
+    • Kennzahlen und Export verwenden dieselbe Filterlogik

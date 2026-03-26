@@ -10,6 +10,9 @@
             ▪ Bearbeitet
                 • Ja
                 • Nein
+            ▪ Update-Art
+                • Feature-Update
+                • Qualitätsupdate
             ▪ Notiz
             ▪ Erfolgreich
                 • Ja
