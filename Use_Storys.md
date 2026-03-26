@@ -624,6 +624,7 @@ Akzeptanzkriterien:
     • Zielversion ist pro Gerät auswählbar
     • Standard-Zielversion kann global definiert werden
     • Zielversion ist in Übersicht, Historie und Export sichtbar
+    • Wenn keine gerätespezifische Zielversion gesetzt ist, gilt die globale Standard-Zielversion
 
 User Story 64: Update-Art erfassen
 Als Operator

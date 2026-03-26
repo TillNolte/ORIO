@@ -22,6 +22,8 @@ Attribute
             ▪ Server
         ○ Notiz
         ○ Ort (FK)
+        ○ Zielversion (optional)
+        ○ Wirksame Zielversion (abgeleitet aus Gerät oder globaler Standard-Zielversion)
         ○ Aktive Kampagne (FK, optional)
         ○ Kampagnenzuordnungsverlauf [1:n]
             ▪ Kampagne (FK)
@@ -73,6 +75,7 @@ Attribute
                 • Feature-Update
                 • Qualitätsupdate
                 • Pflichtfeld, für Bestandsdaten mit Default-Wert
+            ▪ Zielversion (wirksam)
             ▪ Notiz
             ▪ Erfolgreich
                 • Ja

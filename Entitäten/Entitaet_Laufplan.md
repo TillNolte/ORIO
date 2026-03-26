@@ -14,6 +14,7 @@
                 • Feature-Update
                 • Qualitätsupdate
                 • Pflichtfeld, für Bestandsdaten mit Default-Wert
+            ▪ Zielversion (wirksam)
             ▪ Notiz
             ▪ Erfolgreich
                 • Ja
