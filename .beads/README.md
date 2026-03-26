@@ -26,8 +26,9 @@ bd show <issue-id>
 bd update <issue-id> --status in_progress
 bd update <issue-id> --status done
 
-# Sync with git remote
-bd sync
+# Check and commit Beads (Dolt) changes if needed
+bd vc status
+bd vc commit -m "update beads data"
 ```
 
 ### Working with Issues
@@ -36,7 +37,7 @@ Issues in Beads are:
 - **Git-native**: Stored in `.beads/issues.jsonl` and synced like code
 - **AI-friendly**: CLI-first design works perfectly with AI coding agents
 - **Branch-aware**: Issues can follow your branch workflow
-- **Always in sync**: Auto-syncs with your commits
+- **Version-controlled**: Use `bd vc status` / `bd vc commit` when Beads data changes are pending
 
 ## Why Beads?
 
@@ -51,7 +52,7 @@ Issues in Beads are:
 - Fast, lightweight, and stays out of your way
 
 🔧 **Git Integration**
-- Automatic sync with git commits
+- Beads data can be reviewed and committed with `bd vc` commands
 - Branch-aware issue tracking
 - Intelligent JSONL merge resolution
 

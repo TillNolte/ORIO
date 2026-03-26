@@ -62,7 +62,8 @@ bd ready
 bd show <id>
 bd update <id> --status in_progress
 bd close <id>
-bd sync
+bd vc status
+bd vc commit -m "update beads data"   # nur wenn uncommitted Aenderungen vorhanden sind
 ```
 
 Zur Erstinitialisierung (falls noch nicht erfolgt):
@@ -84,7 +85,7 @@ bd onboard
 2. Details mit `bd show <id>` prüfen
 3. Status auf `in_progress` setzen
 4. Fachliche Änderungen in den passenden Markdown-Dateien umsetzen
-5. Änderungen in Git committen und mit `bd sync` abgleichen
+5. Änderungen in Git committen, danach `bd vc status` prüfen und bei Bedarf `bd vc commit -m "update beads data"` ausführen
 6. Aufgabe mit `bd close <id>` abschließen
 
 Empfehlung vor Abschluss:
@@ -99,8 +100,8 @@ Empfehlung vor Abschluss:
 	Gegenmassnahme: Jede neu eingefuegte Referenz einmal gegen die Quelldatei pruefen.
 - Aufgabe in `bd` begonnen, aber Status nicht aktualisiert
 	Gegenmassnahme: Direkt nach Start `bd update <id> --status in_progress` ausfuehren.
-- Aenderungen gemacht, aber nicht mit `bd` synchronisiert
-	Gegenmassnahme: Nach Commit `bd sync` in den Standardablauf aufnehmen.
+- Uncommitted Aenderungen in der bd-Datenbank uebersehen
+	Gegenmassnahme: Nach Commit `bd vc status` pruefen und bei Bedarf `bd vc commit -m "update beads data"` ausfuehren.
 - Verwechslung bei historisch gewachsener Benennung (`Entitäten.md` vs. `Entitaeten/`)
 	Gegenmassnahme: Beim Verlinken bewusst auf den exakten Dateinamen bzw. Ordnernamen achten.
 
