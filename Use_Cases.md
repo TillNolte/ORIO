@@ -34,7 +34,7 @@ UC-05 Dubletten erkennen und bereinigen
 
 Akteur: Operator
 
-Ziel: mögliche Dubletten kennzeichnen, korrekten Datensatz festlegen, Alternativdatensatz korrigieren oder mit Hinweis versehen, Entscheidung historisieren.
+Ziel: mögliche Dubletten anhand Hostname/IP erkennen und in der Übersicht kennzeichnen; korrekten Datensatz festlegen; Alternativdatensatz korrigieren oder mit Hinweis versehen; Entscheidung historisieren.
 
 Deckt ab: US55, US56
 

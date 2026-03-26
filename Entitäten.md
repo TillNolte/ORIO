@@ -33,6 +33,9 @@ Attribute
             ▪ Ergebnis (stimmig/abweichend)
             ▪ Kommentar
             ▪ Prüfzeitpunkt
+        ○ Dublettenkennzeichnung
+            ▪ Ist mögliche Dublette
+            ▪ Erkennungsgrund (Hostname/IP/beides)
         ○ Dublettenentscheidung
             ▪ Ist korrekter Datensatz
             ▪ Maßnahme Alternativdatensatz (korrigiert/hinweis)

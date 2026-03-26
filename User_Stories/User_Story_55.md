@@ -7,3 +7,4 @@ Akzeptanzkriterien:
     • Geräte mit identischem oder ähnlichem Hostnamen und/oder IP-Adresse werden als „mögliche Dublette“ gekennzeichnet
     • Beide Datensätze bleiben zunächst erhalten
     • Kennzeichnung ist in der Geräteübersicht sichtbar
+    • Kennzeichnung enthält den Erkennungsgrund (Hostname, IP-Adresse oder beides)
