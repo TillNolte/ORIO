@@ -16,6 +16,10 @@
         ○ Wirksame Zielversion (abgeleitet aus Gerät oder globaler Standard-Zielversion)
         ○ Dokumentation unvollständig
         ○ Dokumentationshinweis
+        ○ Hostname-IP-Abgleich
+            ▪ Ergebnis (stimmig/abweichend)
+            ▪ Kommentar
+            ▪ Prüfzeitpunkt
         ○ Letzte Schnellaktion
             ▪ Aktion
             ▪ Ergebnis (erfolgreich/fehlgeschlagen)

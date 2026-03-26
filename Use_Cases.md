@@ -42,7 +42,7 @@ UC-06 Hostname–IP-Abgleich prüfen und dokumentieren
 
 Akteur: Operator
 
-Ziel: manuelle Prüfung der Zuordnung Hostname/IP, Abweichung kommentieren.
+Ziel: manuelle Prüfung der Zuordnung Hostname/IP; Ergebnis als stimmig/abweichend dokumentieren; Abweichungen kommentieren.
 
 Deckt ab: US58
 

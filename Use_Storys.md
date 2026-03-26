@@ -575,6 +575,7 @@ Akzeptanzkriterien:
     • Anzeige von Hostname und IP-Adresse in der Geräteansicht
     • Möglichkeit zur manuellen Überprüfung durch den Operator
     • Abweichungen können kommentiert werden
+    • Ergebnis der Prüfung ist als „stimmig“ oder „abweichend“ dokumentierbar
 
 User Story 59: Schnellaktionen für häufige Statusänderungen
 Als Operator
