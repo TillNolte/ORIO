@@ -53,6 +53,7 @@ Attribute
             ▪ Startzeitpunkt
             ▪ Endzeitpunkt
             ▪ Operator (FK)
+            ▪ Genau eine Zuordnung darf gleichzeitig aktiv sein
     • Nutzer
         ○ Benutzertyp
             ▪ Ausbilder
@@ -122,12 +123,14 @@ Attribute
         ○ Erstelldatum
         ○ Aktualisierungsdatum
         ○ Notiz
+        ○ Ist ohne Datumsangaben zulässig
         ○ Fortschritt (abgeleitet)
             ▪ Gesamtgeräte
             ▪ Aktualisiert
             ▪ Offen
             ▪ Fehlerhaft
             ▪ Ausgeschlossen
+            ▪ Jedes aktiv zugeordnete Gerät zählt genau einmal
         ○ Fortschrittsverlauf (Snapshots)
             ▪ Zeitpunkt
             ▪ Gesamtgeräte

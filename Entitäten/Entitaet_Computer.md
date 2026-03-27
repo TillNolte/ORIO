@@ -41,3 +41,4 @@
             ▪ Startzeitpunkt
             ▪ Endzeitpunkt
             ▪ Operator (FK)
+            ▪ Genau eine Zuordnung darf gleichzeitig aktiv sein

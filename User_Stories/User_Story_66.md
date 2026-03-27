@@ -13,3 +13,4 @@ Akzeptanzkriterien:
     • Start- und Enddatum sind optional
     • Geräte können einer Kampagne zugeordnet werden
     • Eine Kampagne ist nicht zwingend zeitlich begrenzt
+    • Nach dem Speichern ist die Kampagne auch ohne Datumsangaben sofort für Zuordnung und Vergleich verfügbar

@@ -9,3 +9,4 @@ Akzeptanzkriterien:
     • Kampagnenzuordnung ist historisiert
     • Bei Kampagnenwechsel wird die bisherige aktive Zuordnung automatisch beendet
     • Historie enthält mindestens: Gerät, Kampagne, Startzeitpunkt, Endzeitpunkt, Operator
+    • Mehrfachzuordnungen eines Geräts entstehen nur historisch, nie als parallele aktive Zuordnungen

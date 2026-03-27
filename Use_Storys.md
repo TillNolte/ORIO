@@ -673,6 +673,7 @@ Akzeptanzkriterien:
     • Start- und Enddatum sind optional
     • Geräte können einer Kampagne zugeordnet werden
     • Eine Kampagne ist nicht zwingend zeitlich begrenzt
+    • Nach dem Speichern ist die Kampagne auch ohne Datumsangaben sofort für Zuordnung und Vergleich verfügbar
 
 User Story 67: Geräte mehreren Kampagnen zuordnen
 Als Operator
@@ -684,6 +685,7 @@ Akzeptanzkriterien:
     • Kampagnenzuordnung ist historisiert
     • Bei Kampagnenwechsel wird die bisherige aktive Zuordnung automatisch beendet
     • Historie enthält mindestens: Gerät, Kampagne, Startzeitpunkt, Endzeitpunkt, Operator
+    • Mehrfachzuordnungen eines Geräts entstehen nur historisch, nie als parallele aktive Zuordnungen
 
 User Story 68: Fortschritt pro Update-Kampagne anzeigen
 Als Teamleiter
@@ -700,3 +702,4 @@ Akzeptanzkriterien:
     • Vergleich mehrerer Kampagnen möglich
     • Kennzahlen werden je Kampagne ausschließlich aus den der Kampagne aktiv zugeordneten Geräten berechnet
     • Vergleichsansicht zeigt Kampagnen nebeneinander mit identischen Kennzahlen
+    • Jedes aktiv zugeordnete Gerät fließt pro Kampagne genau einmal in die Kennzahlen ein

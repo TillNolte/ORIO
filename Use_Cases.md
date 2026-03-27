@@ -250,6 +250,8 @@ Akteur: Teamleiter
 
 Ziel: Kampagnen mit Name/Beschreibung/Zielversion/Update-Art; nicht zwingend zeitlich begrenzt.
 
+Ergebnis: Kampagne ist nach dem Speichern auch ohne Datumsangaben sofort für Zuordnung und Vergleich nutzbar.
+
 Deckt ab: US66, US68
 
 UC-32 Gerät einer aktiven Kampagne zuordnen und Wechsel historisieren
@@ -257,6 +259,8 @@ UC-32 Gerät einer aktiven Kampagne zuordnen und Wechsel historisieren
 Akteur: Operator
 
 Ziel: Gerät genau einer aktiven Kampagne zuordnen; Wechsel mit automatischem Abschluss der vorherigen Zuordnung; Historisierung mit Zeitbezug und Operator.
+
+Regel: Mehrfachzuordnungen eines Geräts sind nur historisch zulässig, nie parallel aktiv.
 
 Deckt ab: US67
 
